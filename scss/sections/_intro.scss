@@ -12,7 +12,6 @@
     .video-box {
         position: relative;
         a {
-            @include absoluteCenter;
             span {
                 i {
                     font-size: 6rem;
