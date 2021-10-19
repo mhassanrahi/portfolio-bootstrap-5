@@ -11154,6 +11154,18 @@ textarea.form-control-lg {
   }
 }
 
+.display-2 {
+  margin-bottom: 1rem;
+}
+.display-2--intro {
+  display: inline-block;
+  font-weight: 700;
+}
+.display-2--description {
+  font-size: 1rem;
+  display: block;
+}
+
 .menu {
   background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(209, 34, 227, 0.95));
 }
