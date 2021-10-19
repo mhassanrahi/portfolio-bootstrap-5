@@ -11189,4 +11189,18 @@ textarea.form-control-lg {
   height: 100%;
 }
 
+.intros .video-box {
+  position: relative;
+}
+.intros .video-box a {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.intros .video-box a span i {
+  font-size: 6rem;
+  color: #d122e3;
+}
+
 /*# sourceMappingURL=style.css.map */
