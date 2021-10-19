@@ -6,4 +6,12 @@
         rgba($primary, 0.95),
         rgba($secondary, 0.95)
     );
+
+    li {
+        padding: 0 0.7rem;
+
+        a {
+            color: #fff !important;
+        }
+    }
 }
